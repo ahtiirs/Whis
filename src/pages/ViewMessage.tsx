@@ -74,7 +74,6 @@ function ViewMessage() {
           <IonButton  slot="end" color="danger" className="ion-margin" >SEND REMAINDER SMS</IonButton>
          
         </IonItem>
-
          </div>
       </IonContent>
     </IonPage>
