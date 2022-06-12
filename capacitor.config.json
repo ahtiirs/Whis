@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Whis",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

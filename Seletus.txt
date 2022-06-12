@@ -1,0 +1,12 @@
+App töönimega WHIS 
+
+Moobiilirakendused 2022 arvestuseks koostatud app'i Whis vaated ja nende vahel liikumine.
+App eesmärgiks on luua lihtna ja kiire vahend kuhu kirja panna välja jagatud esemed.
+Api töönimi WHIS ongi tuletatud lühend väljendist Where IS
+Rakenduse loomisel tegin mõned macup ekraanipildid ja panin ka need omavahel liikuma. Selleks kasutasin 
+moqups.com vahendit. Näha peaks saama siit https://app.moqups.com/c2042tJBlmEVfO5q0qU48bTrmPBtJdd9/view/page/aa9df7b72
+
+App ise sisaldab enamvähem sama mis moqup.com tehtud sai. Sisu äpil pole ainult demodata. 
+Mõtteid mida sinna lisada on palju aga ehk koolitööks piisab nendest lehtedest.
+
+Tervitades, Ahti Irs
